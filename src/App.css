@@ -1,0 +1,14 @@
+div{
+  background-color: blueviolet;
+  color:burlywood;
+  padding :40px;
+  font-family: 고딕;
+  text-align: center;
+}
+
+h1{
+  color: burlywood;
+  background-color: violet;
+  padding: 10px;
+  font-family: 궁서;
+}
