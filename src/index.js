@@ -6,6 +6,7 @@ import App2 from './App2';
 import App3 from './App3';
 import App4 from './App4';
 import TodoApp from './todoApp';
+import FetchApp from './FetchApp';
 
 /*
   루트노드
@@ -22,7 +23,7 @@ import TodoApp from './todoApp';
 */
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render( 
-    <App4/>
+    <FetchApp/>
 );
 
 

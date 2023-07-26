@@ -7,8 +7,8 @@ div{
 }
 
 h1{
-  color: burlywood;
-  background-color: violet;
+  color: white;
+  background-color: darkorchid;
   padding: 10px;
-  font-family: 궁서;
+  font-family: "Noto Sans KR", sans-serif;
 }

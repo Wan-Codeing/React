@@ -38,7 +38,7 @@ function Spread(){
         <>
             {console.log(images)}
             {
-                // [].map(콜백함수)
+                // [].map(콜백함수) : virtual Dom 이랑 잘어울림 => 바뀐값만 비교해서 다시 랜더링
                 images.map(
                     (img) => <img src={img.src}/>
                 )
